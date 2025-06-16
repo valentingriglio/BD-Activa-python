@@ -1,7 +1,5 @@
 # BD-Activa-python
 
-# Proyecto Python con Entorno Virtual
-
 Este repositorio contiene un proyecto en Python que utiliza un entorno virtual (`.venv`) y un archivo `requirements.txt` para gestionar las dependencias.
 
 ## Pasos para empezar
